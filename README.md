@@ -1,2 +1,4 @@
 # PQ-Files
- PQ
+ This branch is dedicated to PQ MATLAB files for this sem.
+
+ Kudos!
